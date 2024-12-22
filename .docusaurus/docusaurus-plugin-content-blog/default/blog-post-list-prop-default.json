@@ -1,0 +1,23 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Docs revamped to Docusaurus",
+      "permalink": "/blog/2024/10/25/docs-updated-to-docusaurus",
+      "unlisted": false,
+      "date": "2024-10-25T00:00:00.000Z"
+    },
+    {
+      "title": "Chrome Debug Tool Release",
+      "permalink": "/blog/2024/08/23/chrome-debug-tool-release",
+      "unlisted": false,
+      "date": "2024-08-23T00:00:00.000Z"
+    },
+    {
+      "title": "Laravext's first release",
+      "permalink": "/blog/2024/08/20/laravext-release",
+      "unlisted": false,
+      "date": "2024-08-20T00:00:00.000Z"
+    }
+  ]
+}

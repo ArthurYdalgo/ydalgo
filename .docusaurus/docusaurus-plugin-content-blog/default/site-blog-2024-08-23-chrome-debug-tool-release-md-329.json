@@ -1,0 +1,36 @@
+{
+  "permalink": "/blog/2024/08/23/chrome-debug-tool-release",
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/blog/2024-08-23-chrome-debug-tool-release.md",
+  "source": "@site/blog/2024-08-23-chrome-debug-tool-release.md",
+  "title": "Chrome Debug Tool Release",
+  "description": "A chrome debug tool was released on August 23, 2024. This tool helps you analyse the laravext data that is sent to the client. Check it out here.",
+  "date": "2024-08-23T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.14,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Arthur Ydalgo",
+      "title": "Maintainer of Laravext",
+      "url": "https://github.com/ArthurYdalgo",
+      "imageURL": "https://github.com/arthurydalgo.png",
+      "key": "arthurydalgo",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Chrome Debug Tool Release",
+    "authors": [
+      "arthurydalgo"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Docs revamped to Docusaurus",
+    "permalink": "/blog/2024/10/25/docs-updated-to-docusaurus"
+  },
+  "nextItem": {
+    "title": "Laravext's first release",
+    "permalink": "/blog/2024/08/20/laravext-release"
+  }
+}

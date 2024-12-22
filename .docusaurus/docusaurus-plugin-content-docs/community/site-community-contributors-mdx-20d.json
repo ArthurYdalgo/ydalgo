@@ -1,0 +1,23 @@
+{
+  "id": "contributors",
+  "title": "Contributors",
+  "description": "Everyone who ever contributed to Laravext",
+  "source": "@site/community/contributors.mdx",
+  "sourceDirName": ".",
+  "slug": "/contributors",
+  "permalink": "/community/contributors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/community/contributors.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Contributors",
+    "description": "Everyone who ever contributed to Laravext"
+  },
+  "sidebar": "community",
+  "next": {
+    "title": "Built by you!",
+    "permalink": "/community/projects-made-with-laravext"
+  }
+}

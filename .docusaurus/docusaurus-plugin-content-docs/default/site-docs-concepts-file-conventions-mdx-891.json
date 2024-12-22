@@ -1,0 +1,24 @@
+{
+  "id": "concepts/file-conventions",
+  "title": "File Conventions",
+  "description": "File conventions are special files that are used when rendering a nexus, and they are inspired by the Next.js' file conventions. They follow the hierarchy below:",
+  "source": "@site/docs/concepts/file-conventions.mdx",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/file-conventions",
+  "permalink": "/docs/latest/concepts/file-conventions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/concepts/file-conventions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Router",
+    "permalink": "/docs/latest/concepts/router"
+  },
+  "next": {
+    "title": "Laravext Prop",
+    "permalink": "/docs/latest/concepts/laravext-prop"
+  }
+}

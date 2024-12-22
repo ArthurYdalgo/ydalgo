@@ -1,0 +1,22 @@
+{
+  "id": "laravext",
+  "title": "Laravext",
+  "description": "What is it Laravext?",
+  "source": "@site/docs/laravext.mdx",
+  "sourceDirName": ".",
+  "slug": "/laravext",
+  "permalink": "/docs/latest/laravext",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/laravext.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Laravext"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Before you start",
+    "permalink": "/docs/latest/before-you-start"
+  }
+}

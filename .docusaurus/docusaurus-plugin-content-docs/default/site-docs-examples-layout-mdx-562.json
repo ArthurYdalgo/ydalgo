@@ -1,0 +1,24 @@
+{
+  "id": "examples/layout",
+  "title": "Layout",
+  "description": "This is an example of a layout file convention. These files are located at ./resources/js/nexus/(global)/(auth)/layout.(jsx|tsx|js|ts|vue).",
+  "source": "@site/docs/examples/layout.mdx",
+  "sourceDirName": "examples",
+  "slug": "/examples/layout",
+  "permalink": "/docs/latest/examples/layout",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/examples/layout.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Middleware",
+    "permalink": "/docs/latest/examples/middleware"
+  },
+  "next": {
+    "title": "Misc",
+    "permalink": "/docs/latest/category/misc"
+  }
+}

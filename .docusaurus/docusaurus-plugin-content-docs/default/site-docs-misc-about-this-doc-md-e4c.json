@@ -1,0 +1,24 @@
+{
+  "id": "misc/about-this-doc",
+  "title": "About this Doc",
+  "description": "If you liked this documentation (or at least the looks of it), here are the tools I used:",
+  "source": "@site/docs/misc/about-this-doc.md",
+  "sourceDirName": "misc",
+  "slug": "/misc/about-this-doc",
+  "permalink": "/docs/latest/misc/about-this-doc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/misc/about-this-doc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Misc",
+    "permalink": "/docs/latest/category/misc"
+  },
+  "next": {
+    "title": "Links",
+    "permalink": "/docs/latest/category/links"
+  }
+}

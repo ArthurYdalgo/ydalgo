@@ -1,0 +1,23 @@
+{
+  "id": "projects-made-with-laravext",
+  "title": "Built by you!",
+  "description": "Community projects built using Laravext",
+  "source": "@site/community/projects-made-with-laravext.md",
+  "sourceDirName": ".",
+  "slug": "/projects-made-with-laravext",
+  "permalink": "/community/projects-made-with-laravext",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/community/projects-made-with-laravext.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Built by you!",
+    "description": "Community projects built using Laravext"
+  },
+  "sidebar": "community",
+  "previous": {
+    "title": "Contributors",
+    "permalink": "/community/contributors"
+  }
+}

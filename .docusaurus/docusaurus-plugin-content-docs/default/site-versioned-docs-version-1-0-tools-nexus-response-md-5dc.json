@@ -1,0 +1,24 @@
+{
+  "id": "tools/nexus-response",
+  "title": "Nexus Response",
+  "description": "Similar to Inertia.js' Responses, the nexus response is a way render a view containing a @nexus blade directive (or @startNexus/@endNexus). Here's an example of how to use it (for the sake of simplicity, I won't use a controller):",
+  "source": "@site/versioned_docs/version-1.0/tools/nexus-response.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/nexus-response",
+  "permalink": "/docs/tools/nexus-response",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/versioned_docs/version-1.0/tools/nexus-response.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Routing",
+    "permalink": "/docs/tools/routing"
+  },
+  "next": {
+    "title": "Shared Props",
+    "permalink": "/docs/tools/shared-props"
+  }
+}

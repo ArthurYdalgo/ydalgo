@@ -1,0 +1,24 @@
+{
+  "id": "examples/middleware",
+  "title": "Middleware",
+  "description": "Important note: remember that this middleware will be executed on the client side and is meant for non-sensitive scenarios, so be aware of any data that should be present in the client. If a middleware is of uttermoust importance, you should use a standard Laravel middleware.",
+  "source": "@site/versioned_docs/version-1.0/examples/middleware.md",
+  "sourceDirName": "examples",
+  "slug": "/examples/middleware",
+  "permalink": "/docs/examples/middleware",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/versioned_docs/version-1.0/examples/middleware.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page",
+    "permalink": "/docs/examples/page"
+  },
+  "next": {
+    "title": "Layout",
+    "permalink": "/docs/examples/layout"
+  }
+}

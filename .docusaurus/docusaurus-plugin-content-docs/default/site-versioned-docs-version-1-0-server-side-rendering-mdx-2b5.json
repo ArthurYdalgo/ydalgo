@@ -1,0 +1,24 @@
+{
+  "id": "server-side-rendering",
+  "title": "Server Side Rending",
+  "description": "Laravext offers two ways to server side render you application: a javascript runtime and a blade engine based. If for some reason the need arises, you can even use both at the same time for different routes.",
+  "source": "@site/versioned_docs/version-1.0/server-side-rendering.mdx",
+  "sourceDirName": ".",
+  "slug": "/server-side-rendering",
+  "permalink": "/docs/server-side-rendering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/versioned_docs/version-1.0/server-side-rendering.mdx",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chrome Extension",
+    "permalink": "/docs/tools/chrome-extension"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/docs/category/examples"
+  }
+}

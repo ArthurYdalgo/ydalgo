@@ -1,0 +1,24 @@
+{
+  "id": "quickstart",
+  "title": "Quick Start Installation",
+  "description": "This tutorial assumes that you already have a Laravel 10 (or later) project up and running with PHP 8.2, and that you use the vite bundler. These instructions are based on the examples provided in the laravext repository.",
+  "source": "@site/versioned_docs/version-1.0/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/docs/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/versioned_docs/version-1.0/quickstart.mdx",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Before you start",
+    "permalink": "/docs/before-you-start"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/configuration"
+  }
+}

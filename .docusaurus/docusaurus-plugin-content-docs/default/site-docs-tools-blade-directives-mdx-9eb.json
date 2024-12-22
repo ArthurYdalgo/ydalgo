@@ -1,0 +1,24 @@
+{
+  "id": "tools/blade-directives",
+  "title": "Blade Directives",
+  "description": "Laravext offers some blade directives to be used in your project.",
+  "source": "@site/docs/tools/blade-directives.mdx",
+  "sourceDirName": "tools",
+  "slug": "/tools/blade-directives",
+  "permalink": "/docs/latest/tools/blade-directives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/tools/blade-directives.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/docs/latest/category/tools"
+  },
+  "next": {
+    "title": "Routing",
+    "permalink": "/docs/latest/tools/routing"
+  }
+}
