@@ -34,15 +34,16 @@ module.exports = {
             },
             items: [
                 {
-                    type: "doc",
+                    
                     position: "left",
-                    docId: "laravext",
+                    to: "/projects",
+                    
                     label: "Projects",
                 },
                 {
-                    type: "doc",
+                    
                     position: "left",
-                    docId: "laravext",
+                    to: "/resume",
                     label: "Resume",
                 },
                 {
@@ -94,13 +95,7 @@ module.exports = {
                     path: "docs",
                     sidebarPath: require.resolve("./sidebars/docs.js"),
                     editUrl,
-                    routeBasePath: "/docs",
-                    versions: {
-                        current: {
-                            label: "Latest (1.0)",
-                            path: 'latest'
-                        },
-                    },
+                    routeBasePath: "/",
                 },
                 blog: {
                     path: "blog",

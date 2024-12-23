@@ -1,291 +1,23 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/",
       "versions": [
         {
           "name": "current",
-          "label": "Latest (1.0)",
-          "isLast": false,
-          "path": "/docs/latest",
-          "mainDocId": "laravext",
-          "docs": [
-            {
-              "id": "before-you-start",
-              "path": "/docs/latest/before-you-start",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/file-conventions",
-              "path": "/docs/latest/concepts/file-conventions",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/laravext-lifecycle",
-              "path": "/docs/latest/concepts/laravext-lifecycle",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/laravext-prop",
-              "path": "/docs/latest/concepts/laravext-prop",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/router",
-              "path": "/docs/latest/concepts/router",
-              "sidebar": "docs"
-            },
-            {
-              "id": "configuration",
-              "path": "/docs/latest/configuration",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/layout",
-              "path": "/docs/latest/examples/layout",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/middleware",
-              "path": "/docs/latest/examples/middleware",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/page",
-              "path": "/docs/latest/examples/page",
-              "sidebar": "docs"
-            },
-            {
-              "id": "laravext",
-              "path": "/docs/latest/laravext",
-              "sidebar": "docs"
-            },
-            {
-              "id": "misc/about-this-doc",
-              "path": "/docs/latest/misc/about-this-doc",
-              "sidebar": "docs"
-            },
-            {
-              "id": "quickstart",
-              "path": "/docs/latest/quickstart",
-              "sidebar": "docs"
-            },
-            {
-              "id": "server-side-rendering",
-              "path": "/docs/latest/server-side-rendering",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/blade-directives",
-              "path": "/docs/latest/tools/blade-directives",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/chrome-extension",
-              "path": "/docs/latest/tools/chrome-extension",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/head-component",
-              "path": "/docs/latest/tools/head-component",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/link-component",
-              "path": "/docs/latest/tools/link-component",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/nexus-response",
-              "path": "/docs/latest/tools/nexus-response",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/routing",
-              "path": "/docs/latest/tools/routing",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/shared-props",
-              "path": "/docs/latest/tools/shared-props",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/visit",
-              "path": "/docs/latest/tools/visit",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/concepts",
-              "path": "/docs/latest/category/concepts",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/tools",
-              "path": "/docs/latest/category/tools",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/examples",
-              "path": "/docs/latest/category/examples",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/misc",
-              "path": "/docs/latest/category/misc",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/links",
-              "path": "/docs/latest/category/links",
-              "sidebar": "docs"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "docs": {
-              "link": {
-                "path": "/docs/latest/laravext",
-                "label": "Laravext"
-              }
-            }
-          }
-        },
-        {
-          "name": "1.0",
-          "label": "1.0",
+          "label": "Next",
           "isLast": true,
-          "path": "/docs",
-          "mainDocId": "laravext",
+          "path": "/",
+          "mainDocId": "resume",
           "docs": [
             {
-              "id": "before-you-start",
-              "path": "/docs/before-you-start",
+              "id": "projects",
+              "path": "/projects",
               "sidebar": "docs"
             },
             {
-              "id": "concepts/file-conventions",
-              "path": "/docs/concepts/file-conventions",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/laravext-lifecycle",
-              "path": "/docs/concepts/laravext-lifecycle",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/laravext-prop",
-              "path": "/docs/concepts/laravext-prop",
-              "sidebar": "docs"
-            },
-            {
-              "id": "concepts/router",
-              "path": "/docs/concepts/router",
-              "sidebar": "docs"
-            },
-            {
-              "id": "configuration",
-              "path": "/docs/configuration",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/layout",
-              "path": "/docs/examples/layout",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/middleware",
-              "path": "/docs/examples/middleware",
-              "sidebar": "docs"
-            },
-            {
-              "id": "examples/page",
-              "path": "/docs/examples/page",
-              "sidebar": "docs"
-            },
-            {
-              "id": "laravext",
-              "path": "/docs/laravext",
-              "sidebar": "docs"
-            },
-            {
-              "id": "misc/about-this-doc",
-              "path": "/docs/misc/about-this-doc",
-              "sidebar": "docs"
-            },
-            {
-              "id": "quickstart",
-              "path": "/docs/quickstart",
-              "sidebar": "docs"
-            },
-            {
-              "id": "server-side-rendering",
-              "path": "/docs/server-side-rendering",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/blade-directives",
-              "path": "/docs/tools/blade-directives",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/chrome-extension",
-              "path": "/docs/tools/chrome-extension",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/head-component",
-              "path": "/docs/tools/head-component",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/link-component",
-              "path": "/docs/tools/link-component",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/nexus-response",
-              "path": "/docs/tools/nexus-response",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/routing",
-              "path": "/docs/tools/routing",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/shared-props",
-              "path": "/docs/tools/shared-props",
-              "sidebar": "docs"
-            },
-            {
-              "id": "tools/visit",
-              "path": "/docs/tools/visit",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/concepts",
-              "path": "/docs/category/concepts",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/tools",
-              "path": "/docs/category/tools",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/examples",
-              "path": "/docs/category/examples",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/misc",
-              "path": "/docs/category/misc",
-              "sidebar": "docs"
-            },
-            {
-              "id": "/category/links",
-              "path": "/docs/category/links",
+              "id": "resume",
+              "path": "/resume",
               "sidebar": "docs"
             }
           ],
@@ -293,8 +25,8 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/docs/laravext",
-                "label": "Laravext"
+                "path": "/resume",
+                "label": "Resume"
               }
             }
           }
@@ -340,8 +72,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1734911864001.json",
-        "lunrIndex": "lunr-index-1734911864001.json"
+        "searchDoc": "search-doc-1734913041553.json",
+        "lunrIndex": "lunr-index-1734913041553.json"
       }
     }
   }

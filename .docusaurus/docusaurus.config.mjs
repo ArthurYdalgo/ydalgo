@@ -41,15 +41,13 @@ export default {
       },
       "items": [
         {
-          "type": "doc",
           "position": "left",
-          "docId": "laravext",
+          "to": "/projects",
           "label": "Projects"
         },
         {
-          "type": "doc",
           "position": "left",
-          "docId": "laravext",
+          "to": "/resume",
           "label": "Resume"
         },
         {
@@ -220,13 +218,7 @@ export default {
           "path": "docs",
           "sidebarPath": "/Users/arthurcouto/Documents/GitHub/ydalgo/sidebars/docs.js",
           "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/",
-          "routeBasePath": "/docs",
-          "versions": {
-            "current": {
-              "label": "Latest (1.0)",
-              "path": "latest"
-            }
-          }
+          "routeBasePath": "/"
         },
         "blog": {
           "path": "blog",

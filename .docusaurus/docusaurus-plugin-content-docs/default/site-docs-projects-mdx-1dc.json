@@ -1,0 +1,22 @@
+{
+  "id": "projects",
+  "title": "Projects",
+  "description": "",
+  "source": "@site/docs/projects.mdx",
+  "sourceDirName": ".",
+  "slug": "/projects",
+  "permalink": "/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/docs/projects.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Projects"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Resume",
+    "permalink": "/resume"
+  }
+}
