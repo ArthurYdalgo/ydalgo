@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - deploy-docs
+      - deploy
 
 jobs:
   build:
@@ -19,17 +19,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd docs
+          
           npm install 
       - name: Build website
         run: |
-          cd docs
+          
           npm run build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/build
+          path: build
 
   deploy:
     name: Deploy to GitHub Pages
