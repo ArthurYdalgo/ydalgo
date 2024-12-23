@@ -42,94 +42,24 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-cd6": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---bloge-69-044"
-      },
-      {
-        "content": "content---blog-153-dae"
-      },
-      {
-        "content": "content---blog-9-e-3-306"
-      }
-    ],
-    "__props": "__props---blogc-15-573"
-  },
-  "/blog/2024/08/20/laravext-release-5b9": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-08-20-laravext-releaseace-176"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-08-20-laravext-releasea-14-5b3"
-  },
-  "/blog/2024/08/23/chrome-debug-tool-release-4b7": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-08-20-laravext-releaseace-176"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-08-23-chrome-debug-tool-release-329-635"
-  },
-  "/blog/2024/10/25/docs-updated-to-docusaurus-800": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-08-20-laravext-releaseace-176"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-10-25-docs-updated-to-docusaurus-691-3b5"
-  },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "__props": "__props---blog-archivef-81-229"
-  },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-08-20-laravext-releaseace-176"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
-  },
-  "/community-54c": {
+  "/community-8ba": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---communitye-07-a7e"
     }
   },
-  "/community-aa1": {
+  "/community-aea": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---communityd-24-a8e"
   },
-  "/community-0ab": {
+  "/community-980": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/community/contributors-cc1": {
+  "/community/contributors-58d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---community-contributors-20-d-85d"
   },
-  "/community/projects-made-with-laravext-10d": {
+  "/community/projects-made-with-laravext-fb1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---community-projects-made-with-laravext-282-6a8"
   },
@@ -143,7 +73,7 @@
   "/-e53": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "plugin---aba-d70"
     }
   },
   "/-a24": {
@@ -155,10 +85,10 @@
   },
   "/projects-b0e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-1-dc-4e1"
+    "content": "content---projects-1-dc-266"
   },
   "/resume-1a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-resumec-47-825"
+    "content": "content---resumec-47-0fc"
   }
 }

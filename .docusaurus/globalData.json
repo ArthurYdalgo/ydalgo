@@ -47,17 +47,17 @@
             {
               "id": "contributors",
               "path": "/community/contributors",
-              "sidebar": "community"
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "projects-made-with-laravext",
               "path": "/community/projects-made-with-laravext",
-              "sidebar": "community"
+              "sidebar": "defaultSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "community": {
+            "defaultSidebar": {
               "link": {
                 "path": "/community/contributors",
                 "label": "contributors"
@@ -72,8 +72,8 @@
   "docusaurus-lunr-search": {
     "default": {
       "fileNames": {
-        "searchDoc": "search-doc-1734913041553.json",
-        "lunrIndex": "lunr-index-1734913041553.json"
+        "searchDoc": "search-doc-1734915358951.json",
+        "lunrIndex": "lunr-index-1734915358951.json"
       }
     }
   }

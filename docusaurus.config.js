@@ -28,20 +28,8 @@ module.exports = {
         },
         navbar: {
             title: "ArthurYdalgo",
-            logo: {
-                alt: "Laravext Logo",
-                src: "images/logo.png",
-            },
             items: [
                 {
-                    
-                    position: "left",
-                    to: "/projects",
-                    
-                    label: "Projects",
-                },
-                {
-                    
                     position: "left",
                     to: "/resume",
                     label: "Resume",
@@ -114,7 +102,6 @@ module.exports = {
             {
                 id: "community",
                 path: "community",
-                sidebarPath: require.resolve("./sidebars/community.js"),
                 routeBasePath: "/community",
                 editUrl,
             },

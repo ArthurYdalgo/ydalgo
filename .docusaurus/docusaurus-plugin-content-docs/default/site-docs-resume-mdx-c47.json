@@ -1,7 +1,7 @@
 {
   "id": "resume",
   "title": "Resume",
-  "description": "",
+  "description": "In case you're interested in my Europass CV, you can get it below:",
   "source": "@site/docs/resume.mdx",
   "sourceDirName": ".",
   "slug": "/resume",

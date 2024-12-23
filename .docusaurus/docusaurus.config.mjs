@@ -35,16 +35,7 @@ export default {
     },
     "navbar": {
       "title": "ArthurYdalgo",
-      "logo": {
-        "alt": "Laravext Logo",
-        "src": "images/logo.png"
-      },
       "items": [
-        {
-          "position": "left",
-          "to": "/projects",
-          "label": "Projects"
-        },
         {
           "position": "left",
           "to": "/resume",
@@ -237,7 +228,6 @@ export default {
       {
         "id": "community",
         "path": "community",
-        "sidebarPath": "/Users/arthurcouto/Documents/GitHub/ydalgo/sidebars/community.js",
         "routeBasePath": "/community",
         "editUrl": "https://github.com/ArthurYdalgo/laravext/blob/master/docs/"
       }

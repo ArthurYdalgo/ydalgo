@@ -38,58 +38,28 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'cd6'),
-    exact: true
-  },
-  {
-    path: '/blog/2024/08/20/laravext-release',
-    component: ComponentCreator('/blog/2024/08/20/laravext-release', '5b9'),
-    exact: true
-  },
-  {
-    path: '/blog/2024/08/23/chrome-debug-tool-release',
-    component: ComponentCreator('/blog/2024/08/23/chrome-debug-tool-release', '4b7'),
-    exact: true
-  },
-  {
-    path: '/blog/2024/10/25/docs-updated-to-docusaurus',
-    component: ComponentCreator('/blog/2024/10/25/docs-updated-to-docusaurus', '800'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
-    exact: true
-  },
-  {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
-    exact: true
-  },
-  {
     path: '/community',
-    component: ComponentCreator('/community', '54c'),
+    component: ComponentCreator('/community', '8ba'),
     routes: [
       {
         path: '/community',
-        component: ComponentCreator('/community', 'aa1'),
+        component: ComponentCreator('/community', 'aea'),
         routes: [
           {
             path: '/community',
-            component: ComponentCreator('/community', '0ab'),
+            component: ComponentCreator('/community', '980'),
             routes: [
               {
                 path: '/community/contributors',
-                component: ComponentCreator('/community/contributors', 'cc1'),
+                component: ComponentCreator('/community/contributors', '58d'),
                 exact: true,
-                sidebar: "community"
+                sidebar: "defaultSidebar"
               },
               {
                 path: '/community/projects-made-with-laravext',
-                component: ComponentCreator('/community/projects-made-with-laravext', '10d'),
+                component: ComponentCreator('/community/projects-made-with-laravext', 'fb1'),
                 exact: true,
-                sidebar: "community"
+                sidebar: "defaultSidebar"
               }
             ]
           }

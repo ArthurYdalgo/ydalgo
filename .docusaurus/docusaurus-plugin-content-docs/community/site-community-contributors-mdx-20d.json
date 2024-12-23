@@ -15,7 +15,7 @@
     "title": "Contributors",
     "description": "Everyone who ever contributed to Laravext"
   },
-  "sidebar": "community",
+  "sidebar": "defaultSidebar",
   "next": {
     "title": "Built by you!",
     "permalink": "/community/projects-made-with-laravext"

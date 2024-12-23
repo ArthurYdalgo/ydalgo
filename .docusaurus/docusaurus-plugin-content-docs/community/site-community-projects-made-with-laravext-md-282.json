@@ -15,7 +15,7 @@
     "title": "Built by you!",
     "description": "Community projects built using Laravext"
   },
-  "sidebar": "community",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "Contributors",
     "permalink": "/community/contributors"

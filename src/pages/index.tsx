@@ -14,53 +14,23 @@ const Hero = () => {
     return (
         <div className={clsx("hero shadow--lw", styles.heroHeader)}>
             <section className={styles.header}>
-                <img src="/images/logo.png" alt="Logo" />
             <h1 className="hero__title">{siteConfig.title}</h1>
             </section>
             <section className={clsx("hero__subtitle", styles.heroSubtitle)}>
-                An{" "}
-                <span
-                    style={{
-                        color: "#8064eb",
-                        fontWeight: "bold",
-                    }}
-                >
-                    Inertia-styled
-                </span>{" "}
-                monolith with{" "}
-                <span
-                    style={{
-                        color: isDarkTheme ? "#cccccc" : "#444444",
-                        fontWeight: "bold",
-                    }}
-                >
-                    Next.js
-                </span>
-                ' file-based rounting system and file conventions for{" "}
-                <span
-                    style={{
-                        color: "#41B883",
-                        fontWeight: "bold",
-                    }}
-                >
-                    Vue
-                </span>{" "}
-                and{" "}
-                <span
-                    style={{
-                        color: isDarkTheme ? "#61dafb" : "#57c0dd",
-                        fontWeight: "bold",
-                    }}
-                >
-                    React
-                </span>
+                I'm a web developer specialized in Laravel, and I'm also the creator of <a href="https://laravext.dev" target="_blank">Laravext</a>.
             </section>
             <section className={styles.callToActions}>
                 <Link
                     className="button button--lg button--outline button--primary margin--lg"
-                    to="/docs/laravext"
+                    to="/resume"
                 >
-                    Get Started
+                    My Resume
+                </Link>
+                <Link
+                    className="button button--lg button--outline button--secondary margin--lg"
+                    to="/projects"
+                >
+                    My Projects
                 </Link>
             </section>
         </div>

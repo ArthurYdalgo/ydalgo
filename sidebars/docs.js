@@ -13,11 +13,6 @@ module.exports = {
             type: "doc",
             label: "Resume",
             id: "resume",
-        },
-        {
-            type: "doc",
-            label: "Projects",
-            id: "projects",
         }
     ],
 };
