@@ -1,26 +1,25 @@
-const editUrl = "https://github.com/ArthurYdalgo/laravext/blob/master/docs/";
+const editUrl = "https://github.com/ArthurYdalgo/ydalgo/blob/master/docs/";
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
     title: "Arthur Ydalgo",
     tagline:
-        "An Inertia-styled monolith with Next.js' file-based routing system and file conventions for Vue and React",
-    url: "https://laravext.dev",
+        "My personal page",
+    url: "https://ydalgo.dev",
     baseUrl: "/",
     trailingSlash: false,
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "throw",
     favicon: "images/favicon.ico",
     organizationName: "ArthurYdalgo", // Usually your GitHub org/user name.
-    projectName: "laravext", // Usually your repo name.
+    projectName: "ydalgo", // Usually your repo name.
     themeConfig: {
         docs: {
             sidebar: {
                 hideable: true,
             },
         },
-        metadata: [{ name: 'og:image', content: 'https://laravext.dev/images/og_image.png' }],
         colorMode: {
             defaultMode: 'dark',
             disableSwitch: false,
