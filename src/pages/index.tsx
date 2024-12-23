@@ -26,12 +26,6 @@ const Hero = () => {
                 >
                     My Resume
                 </Link>
-                <Link
-                    className="button button--lg button--outline button--secondary margin--lg"
-                    to="/projects"
-                >
-                    My Projects
-                </Link>
             </section>
         </div>
     );
